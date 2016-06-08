@@ -476,3 +476,13 @@
 	background: #fff;
 	border: 1px solid #666;
 	}
+
+
+.leaflet-popup-tip.right {
+    margin: 4px 10px;
+}
+
+.leaflet-popup-tip-container.right {
+    height: 40px;
+    width: 20px;
+}
